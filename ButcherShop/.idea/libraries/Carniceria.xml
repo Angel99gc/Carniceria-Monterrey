@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="Carniceria">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/Carniceria/Carniceria.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
